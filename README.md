@@ -1,5 +1,17 @@
-### Hello World! 👋
+# Hello World! 👋
 
+## Professional Experience
+- Data Analyst, Zelarsoft Pvt. Ltd.
+- GET(Operations), AB Associates.
+
+## Skills
+- Data Analytics
+- Data Visualization
+- Data Engineering
+
+## Education
+- Data Scince & Engineering - PGP
+- Mechanical Engineer
 
 
 <!--
